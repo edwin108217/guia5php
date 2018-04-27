@@ -1,0 +1,17 @@
+h1, h2{
+    text-align: center;
+    color:black;
+}
+p{
+    margin-left: 1opx;
+}
+.contenedor {
+    background: #D35400;
+    width: 80%;
+    height:auto;
+    font-family: Courier New, Courier, monospace;
+    color: azure;
+}
+form{
+    margin-left: 100px;
+}
